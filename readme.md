@@ -1,0 +1,1 @@
+Difference between document and windows object
